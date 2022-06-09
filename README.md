@@ -4,9 +4,9 @@
 
 In this project , I have implemented some basic CRUD Operation of JsonPowerDB i.e. PUT, GET_BY_KEY, REMOVE with a decent UI using Bootstrap. It becomes quiet easy to work JsonPowerDB because of rich API support.
 
-* Project Interface
+* Database
 
-![UI](https://github.com/CodeWizard99/JsonPowerDB/blob/master/images/homepage.png)
+![UI](https://github.com/Sahil-Hate/JPDB/blob/main/images/ss1.png)
 
 * DashBoard
 
