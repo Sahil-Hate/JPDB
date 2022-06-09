@@ -10,11 +10,12 @@ In this project , I have implemented some basic CRUD Operation of JsonPowerDB i.
 
 * DashBoard
 
-![JsonPowerDB DashBoard](https://github.com/CodeWizard99/JsonPowerDB/blob/master/images/dashboard.png)
+![JsonPowerDB DashBoard](https://github.com/Sahil-Hate/JPDB/blob/main/images/ss2.png)
 
-* DataBase
+* Show Data
 
-![Employee Databaase](https://github.com/CodeWizard99/JsonPowerDB/blob/master/images/PUT/img3.png)
+![Employee Databaase](https://github.com/Sahil-Hate/JPDB/blob/main/images/ss3.png)
+
 
 
 
